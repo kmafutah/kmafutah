@@ -1,24 +1,6 @@
 <details>
-<summary>•┈┈✦ GitHub Status ✦┈┈•</summary>
-<p align="left">
-    <img alt = "GitHub Stats" src="[https://github-readme-stats.vercel.app](https://github.com/kmafutah/github-readme-stats)/api?username=kmafutah&show_icons=true&theme=dracula&hide=issues&hide_border=true">
-    <br>
-    <img alt = "Top Languages" src="[https://github-readme-stats.vercel.app](https://github.com/kmafutah/github-readme-stats)/api/top-langs/?username=kmafutah&theme=dracula&layout=compact&hide=jupyter notebook,html,php&hide_border=true">
-</p>
-<a href="https://app.daily.dev/kmafutah"><img src="https://api.daily.dev/devcards/3d3894e3fdac4e28b02a1a4c08073826.png?r=r1d" width="400" alt="Kudakwashe Mafutah's Dev Card"/></a>
+<summary>•┈┈✦ GitHub Status </summary>
+Here are some ideas to get you started:
 </details>
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-- 
-
