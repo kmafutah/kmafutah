@@ -1,7 +1,3 @@
-<details>
-<summary>GitHub Status</summary>
-Here are some ideas to get you started:
-</details>
-
+GitHub Status
 - ⚡ Fun fact: ...
 - ⚡ Fun fact: ...
