@@ -8,7 +8,7 @@ Trading style: [day trading, swing trading, etc.].
 Dedicated to staying updated on economic indicators, geopolitical events, and market trends.
 Passionate about risk management strategies for both short-term and long-term perspectives.
 
-**Programmer** 👨‍💻🚀
+**Programmer** 🚀
 Proficient in [c, c++, c#, vb, python].
 Special focus on [AI, ML, Data, Gov].
 Preferred coding style: [mvc, rest, graphql].
